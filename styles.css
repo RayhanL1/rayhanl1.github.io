@@ -1,0 +1,27 @@
+
+body {
+  background-color: lightgrey;
+}
+
+h1{
+  text-align: center;
+  background-color: grey;
+  border-radius: 1em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+#titlesDiv {
+  display: flex;
+}
+
+#titlesDiv div {
+  flex: 1;
+  background-color: lightblue;
+  border-radius: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
+  h2 {
+    text-align: center;
+  }
+}
